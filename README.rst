@@ -2,7 +2,7 @@
 Minutes Book of CivCorp
 ********************************************************************************
 
-.. _Articles of Incorporation: https://pastebin.com/TU5Cx6NV
+.. _Articles of Incorporation: https://pastebin.com/b6i2pw8h
 
 Table of Contents:
 

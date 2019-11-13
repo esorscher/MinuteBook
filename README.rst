@@ -2,7 +2,7 @@
 Minutes Book of CivCorp
 ********************************************************************************
 
-.. _Articles of Incorporation: https://pastebin.com/b6i2pw8h
+.. _Articles of Incorporation: https://pastebin.com/raw/b6i2pw8h
 .. _Bylaws: https://pastebin.com/raw/JjnVTPsP
 .. _Minutes of the 1st Meeting of Board of Directors: https://pastebin.com/raw/ynY4AZL2
 .. _Action by Written Unanimous Consent: https://pastebin.com/raw/pWVqYJrs
